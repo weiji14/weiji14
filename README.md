@@ -10,12 +10,14 @@ keeping busy on the leading edge of [data-driven research in the Earth Sciences]
 
 These are some of the hats I wear:
 
-- 🎓 Postdoc at the [Byrd Polar and Climate Research Center](https://byrd.osu.edu)!
+- 🧑‍🔬 Researcher at the [Frontier Development Lab (FDL) 2022 program](https://frontierdevelopmentlab.org/fdl2022)!
+- 🎓 Postdoc at the [Byrd Polar and Climate Research Center](https://byrd.osu.edu)
 - 🌏 Core Developer of [PyGMT: A Pythonic Interface to the Generic Mapping Tools](https://www.pygmt.org)
 
 I'm currently:
 
-- 📈 Levelling up my [Machine Learning Engineering (MLOps)](https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops) skills in a team environment
+- 🌳 Immersed in research with a fantastic multi-disciplinary team on Self-supervised learning on SAR data for change detection, for the [FDL2022 NASA Earth Science challenge](https://en.calameo.com/read/005503280b48b2c20f5c2)!
+- ☯️ Starting a new Python package called [zen3geo](https://zen3geo.readthedocs.io/en/latest/walkthrough.html) for Earth Observation and geospatial data ingestion
 - 🔭 Making open source contributions to the [Pytorch ecosystem](https://pytorch.org/ecosystem) and [Pangeo community](https://pangeo.io), all in the [PyData world](https://pydata.org)!
 
 Want to connect?
