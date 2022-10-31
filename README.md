@@ -23,7 +23,7 @@ I'm currently:
 Want to connect?
 
 - 💻 I'm open to new opportunities with a geospatial focus, including remote/part-time/project-based work arrangements, so reach out!
-- 📫 Track me on Twitter as [@weiji14_](https://twitter.com/weiji14_), or find some other links on my [website](https://weiji14.github.io)
+- 📫 Track me on Mastodon as [@weiji14](https://mastodon.nz/@weiji14), or find some other links on my [website](https://weiji14.github.io)
 - 👀 Be sure to check out my cool Computer Vision projects:
   - [DeepBedMap](https://github.com/weiji14/deepbedmap) - Super Resolution **Generative Adversarial Network** to resolve the bed topography of Antarctica
   - [DeepIceDrain](https://github.com/weiji14/deepicedrain) - Finding subglacial lakes using unsupervised **DBSCAN** clustering
