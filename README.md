@@ -9,16 +9,17 @@ Specifically, I work on applying Deep Learning methods to Remote Sensing dataset
 keeping busy on the leading edge of [data-driven research in the Earth Sciences](https://arxiv.org/abs/1908.03356).
 
 These are some of the hats I wear:
-- ☁️ Cloud Engineer in the GeoAI team at [Development Seed](https://developmentseed.org)
+- ☁️ Machine Learning Engineer in the GeoAI team at [Development Seed](https://developmentseed.org)
 - 🌏 Core Developer of [PyGMT: A Pythonic Interface to the Generic Mapping Tools](https://www.pygmt.org)
 
 I'm currently:
-- ☯️ Starting a new Python package called [zen3geo](https://zen3geo.readthedocs.io/en/latest/walkthrough.html) for building Earth Observation and geospatial data pipelines
+- 🦀 Learning Rust, and trying to get into the [GeoRust](https://github.com/georust) ecosystem
+- ☯️ Developing a Python package called [zen3geo](https://zen3geo.readthedocs.io/en/latest/walkthrough.html) for building Earth Observation and geospatial data pipelines
 - 🔭 Making open source contributions to the [Pytorch ecosystem](https://pytorch.org/ecosystem) and [Pangeo community](https://pangeo.io), all in the [PyData world](https://pydata.org)!
 
 Want to connect?
 
-- 💻 I'm open to new opportunities with a geospatial focus, including remote/part-time/project-based work arrangements, so reach out!
+- 💻 I'm open to building partnerships with folks working on open geospatial tools, specifically with a Remote Sensing focus, so reach out!
 - 📫 Track me on Mastodon as [@weiji14](https://mastodon.nz/@weiji14), or find some other links on my [website](https://weiji14.github.io)
 - 👀 Be sure to check out my cool Computer Vision projects:
   - [DeepBedMap](https://github.com/weiji14/deepbedmap) - Super Resolution **Generative Adversarial Network** to resolve the bed topography of Antarctica
